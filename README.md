@@ -1,6 +1,7 @@
 ## Hi there, I'm Mark👋
 
-🌱 I’m learning ....
+🌱 I’m still learning ....
+🔭 I’m currently working on ... Industrial Engineering related projects
 
 <!--
 **snoowbirvd/snoowbirvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
