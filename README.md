@@ -1,7 +1,7 @@
 ## Hi there, I'm Mark👋
 
 
-🔭 I’m currently working on projects related to Industrial Engineering and Japanese language
+🔭 I’m currently working on projects related to Industrial Engineering
 
 <!--
 **snoowbirvd/snoowbirvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
