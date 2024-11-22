@@ -1,7 +1,7 @@
 ## Hi there, I'm Mark👋
 
 
-🌱 Currently working on projects to make our life in Industrial Engineering, Facilities Management, Business & Data Analysis field much easier and more efficient
+🌱 Building up my skills to work on projects that will make our life in Industrial Engineering, Facilities Management, Business & Data Analysis field much easier and more efficient
 
 <!--
 **snoowbirvd/snoowbirvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
