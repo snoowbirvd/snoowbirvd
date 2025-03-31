@@ -1,7 +1,7 @@
-🔭 Background in Industrial Engineering, Facilities Management, and Business & Data Analysis.
+🔭 Background in Industrial Engineering, Facilities Management, and Data Analytics.
 
 
-🌱 Currently building skills in Data Science Field
+🌱 Currently building data analysis skills
 
 <!--
 **snoowbirvd/snoowbirvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
